@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 1517243,
+    "name": "Cold Sweat For Noob",
+    "author": "NauPlays21",
+    "creators": ["NauPlays21"],
+    "verifier": "NauPlays21",
+    "verification": "https://www.youtube.com/watch?v=6_TulqiPcBM",
+    "percentToQualify": 77,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ferrari216",
+            "link": "https://www.youtube.com/watch?v=6_TulqiPcBM",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
